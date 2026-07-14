@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+venv/
+BodyWeightSquats/
+*.db
+*.sqlite
+*.xlsx
+*.csv
+*.avi
+*.mp4
